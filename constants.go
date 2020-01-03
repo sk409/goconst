@@ -5,6 +5,7 @@ const (
 	HTTP_HEADER_ACCESS_CONTROL_ALLOW_HEADERS     = "Access-Control-Allow-Headers"
 	HTTP_HEADER_ACCESS_CONTROL_ALLOW_METHODS     = "Access-Control-Allow-Methods"
 	HTTP_HEADER_ACCESS_CONTROL_ALLOW_ORIGIN      = "Access-Control-Allow-Origin"
+	HTTP_HEADER_ACCESS_CONTROL_EXPOSE_HEADERS    = "Access-Control-Expose-Headers"
 	HTTP_HEADER_CONTENT_ENCODING                 = "Content-Encoding"
 	HTTP_HEADER_CONTENT_ENCODING_GZIP            = "gzip"
 	HTTP_HEADER_CONTENT_TYPE                     = "Content-Type"
