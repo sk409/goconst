@@ -11,6 +11,7 @@ const (
 	HTTP_HEADER_CONTENT_TYPE_JSON                = "application/json"
 	HTTP_HEADER_CONTENT_TYPE_PLAIN_TEXT          = "text/plain"
 	HTTP_HEADER_CONTENT_TYPE_URLENCODED          = "application/x-www-form-urlencoded"
+	HTTP_HEADER_LOCATION                         = "Location"
 	HTTP_HEADER_X_XSRF_TOKEN                     = "X-XSRF-Token"
 	TYPE_INT                                     = "int"
 	TYPE_STRING                                  = "string"
